@@ -4,4 +4,6 @@ Richard She
 
 ## Informal Responses
 
+~Blank~
+
 ### Formal Papers
