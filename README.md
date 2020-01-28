@@ -2,7 +2,8 @@
 
 Richard She 
 
-## Informal Responses
+## Responses to Reading
+
 
 ## Projects
 
