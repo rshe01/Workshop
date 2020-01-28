@@ -1,4 +1,4 @@
-# Index of my work 
+# Index of My Work 
 
 Richard She 
 
