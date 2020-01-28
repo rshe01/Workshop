@@ -4,6 +4,7 @@ Richard She
 
 ## Responses to Reading
 
+1. [Blumenstock Response](https://github.com/rshe01/Workshop/blob/master/Blumenstock.md)
 
 ## Projects
 
