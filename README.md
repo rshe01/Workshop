@@ -5,7 +5,7 @@ Richard She
 ## Responses to Reading
 
 1. [Blumenstock Response](https://rshe01.github.io/Workshop/Blumenstock) (Jan. 30)
-2. [Rosling Response]
+2. [Jahan/Rosling Response](https://github.com/rshe01/Workshop/blob/master/Rosling.md) (Feb. 4)
 
 ## Projects
 
