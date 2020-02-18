@@ -6,7 +6,7 @@ Richard She
 
 1. [Blumenstock Response](https://rshe01.github.io/Workshop/Blumenstock) (Jan. 30)
 2. [Jahan/Rosling Response](https://rshe01.github.io/Workshop/Rosling) (Feb. 4)
-3.[Barder Reponse]
+3. [Barder Reponse]
 
 ## Projects
 
