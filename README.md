@@ -12,6 +12,8 @@ Richard She
 
 ## Assignment 
 
+1. [Assignment One](https://rshe01.github.io/Workshop/Coll%20150%20Assignment%201%20Overview.pdf) (Feb. 23)
+
 1. Annotated Bibliography 
 - Problem Statement 
   - Harms
