@@ -12,7 +12,7 @@ Richard She
 
 ## Assignment 
 
-1. [Assignment One](https://rshe01.github.io/Workshop/Assignment_One.md) (Feb. 23)
+1. [Assignment One](https://rshe01.github.io/Workshop/Assignment_One) (Feb. 23)
 
 1. Annotated Bibliography 
 - Problem Statement 
