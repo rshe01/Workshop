@@ -1,6 +1,9 @@
 Richard She
+
 Tyler Frazier
+
 Coll 150
+
 23rd February 2020
 
 ## Assignment One
