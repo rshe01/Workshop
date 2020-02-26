@@ -7,6 +7,7 @@ Richard She
 1. [Blumenstock Response](https://rshe01.github.io/Workshop/Blumenstock) (Jan. 30)
 2. [Jahan/Rosling Response](https://rshe01.github.io/Workshop/Rosling) (Feb. 4)
 3. [Barder Response](https://rshe01.github.io/Workshop/Development_%26_Complexity) (Feb. 18)
+4. [Is Theory dead?](https://rshe01.github.io/Workshop/Theory_is_dead) (Feb. 26)
 
 ## Projects
 
