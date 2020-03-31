@@ -1,11 +1,11 @@
-1. Nieves et a. use the random forest machine learning method to predict what value globally?  
+### 1. Nieves et a. use the random forest machine learning method to predict what value globally?  
 The Random Forest algorithm is used to help not only predict settlement patterns and population density but also how individual covariates stack up with said density. In this study, we implemented it across low and mid-income countries.
 
-2. Describe in detail how random forest works.  
+### 2. Describe in detail how random forest works.  
 The Random Forest algorithm is a nonlinear statistical machine learning algorithm that falls under the ensemble method which is a method that combines weak learners (decision trees) to form a strong learner which makes for more generalizable, better all-around performance in small and large datasets all the while improving bagging methods. The stronger the decision trees are the more accurate and robust the data. The Random Forest method fits a bunch of covariates using the tuneRF function and the resulting forest is used to define covariate scores. The results of the Random Forest are then implemented to a global scale to create a log of population density. Decision trees are the building blocks of RF. A series of questions are asked to it and the data follows along with each node, child node, etc and it spits out a density. The Random Forest grows/combines multiple decision trees to get a more accurate and stable prediction. 
 
-3. What is a dasymetric population allocation? 
+### 3. What is a dasymetric population allocation? 
 A Dasymmetric population allocation is a technique that distributes spatial data across a given boundary area. To create data of greater accuracy, its important to know how people settle regarding areas of interest such as health & educational facilities, roads, etc. This heavily depends on census data which Nieves was aware of.
 
-4. Which geospatial covariates proved to be the most important when predicting global values of where humans reside?
+### 4. Which geospatial covariates proved to be the most important when predicting global values of where humans reside?
 Five geospatial covariates had the lowest WIR value, meaning that it highly correlates to human population density. These are the covariates as follows: urban/suburban extents (.32), built environmental and urban proxies? (.35) climatic variables (.37), populated place covariates (.42), transportation networks (.5). Area related covariates are super important cause 54% of the world’s population lives in urban places, these are only super accurate in highly dense areas and thus are bias when analyzing less dense urban sprees. I was surprised that water-related covariates were found to be less important than vegetation landcover but I guess they work as a double-edged sword; while they do help provide essential areas of settlement and resources to people, they can still be detrimental in the form of floods. 
