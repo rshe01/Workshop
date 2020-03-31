@@ -9,6 +9,7 @@ Richard She
 3. [Barder Response](https://rshe01.github.io/Workshop/Development_%26_Complexity) (Feb. 18)
 4. [Is Theory dead?](https://rshe01.github.io/Workshop/Theory_is_dead) (Feb. 26)
 5. [Stevens Response](https://rshe01.github.io/Workshop/Random_Forest) (Mar. 26)
+6. [Nieves Response](https://rshe01.github.io/Workshop/Nieves) (Mar. 31)
 
 ## Projects
 
