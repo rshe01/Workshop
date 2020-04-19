@@ -17,6 +17,7 @@ Richard She
 
 1. [Assignment One](https://rshe01.github.io/Workshop/Assignment_One) (Feb. 23)
 2. [Assignment Two](https://rshe01.github.io/Workshop/Assignment_Two) (Apr. 5)
+3. [Assignment Three](https://rshe01.github.io/Workshop/Assignment_Three) (Apr. 19)
 
 1. Annotated Bibliography 
 - Problem Statement 
