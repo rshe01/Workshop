@@ -19,7 +19,7 @@ Richard She
 2. [Assignment Two](https://rshe01.github.io/Workshop/Assignment_Two) (Apr. 5)
 3. [Assignment Three](https://rshe01.github.io/Workshop/Assignment_Three) (Apr. 19)
 
-1. Annotated Bibliography 
+Annotated Bibliography 
 - Problem Statement 
   - Harms
   - Significance of Harms
