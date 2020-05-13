@@ -1,8 +1,11 @@
 May 12, 2020
 
 Richard She
+
 Global Research Institute 
+
 College of William & Mary
+
 123 Sesame Street, NY 10128
 
 To whom this may concern,
@@ -21,6 +24,7 @@ Preliminary Mapping of Environmental Justice Through the use of Geospatial and C
 
 
 Problem Statement
+
 Introduction:
 What is Environmental Justice? Coined in the 1980s Environmental Justice emerged as a prominent concept in the US as a social movement that focuses on the fair distribution of environmental benefits and burdens. Its fundamental goal is the fair treatment and meaningful involvement of people regardless of social factors including but not limited to race, or income in the development and implementation of environmental laws. With environmental degradation and inequality on the rise, the idea of Environmental Justice has continued to be pushed into the forefront of the world. Several decades, it wasn’t uncommon to find that a disproportionate number of polluting industries, power plants, or waste disposal areas were located near low-income or minority communities. While this proportion has significantly reduced in many developed countries it remains a problem for many developing nations. The general umbrella of environmental injustice covers many aspects of community life and can involve burdens that compromise the health of residents. For example, inadequate access to affordable and healthy foods can even be considered under this umbrella, meaning environmental justice spans a wide and elaborate set of definitions.
 
@@ -37,6 +41,7 @@ Research on how to translate this idea into a sophisticated visual map has spark
 
 
 Literature Review
+
 Kriging Methods:
 Mapping EJ is quite the complex process I chose to focus on presenting methods to aggregate air pollution with the social indicators to find if certain areas are more prone to health risks. When determining the best methods to use to estimate air pollution indicators, we must consider the resources available in a country. So a One Size Fits All approach will not for everyone. For example, Vietnam suffers from a national shortage of air quality monitoring sites due to poor management and lack of maintenance, making it hard to track the flow of Ozone, SO2, or Particulate Matter pollutants. In order to address this issue, I found it imperative to implement the use of Kriging techniques, most notably ordinary Kriging. Kriging is a geospatial interpolation technique that uses a series of complex mathematical formulas closely relating to regression analysis which it uses to estimate values at unknown points or locations based on the values at known points [4]. Ordinary Kriging is a two-step process in which it first creates variograms and covariance functions to estimate statistical dependency which it then makes a prediction for the unknown values of [4]. Variograms are functions that describe the degree of spatial dependence, or the relationship between the values of variables or locations, of a field. In addition Kriging, otherwise known as Gaussian process regression, and within a normally distributed confidence interval, Kriging gives a least-squares estimation. Since its formal introduction in the 1960s by Georges Matheron, Kriging has since become a core component of geostatistical methods [4]. Kriging was originally developed for mining but has since seen its uses in environmental science and geostatistics. It was originally used to avoid bias in measuring the average grade of mining panels but has since received many progressive applications in the domain of earth sciences, and even in the analysis of computer experiments. Today its applications find itself in the design of aircraft, predictions of movements in nanomaterial, and even the modeling of social systems. Furthermore, Kriging techniques have played a huge role in studies ranging from investigating groundwater quality to monitoring ozone or particulate matter. The great thing about Ordinary Kriging is that when it is applied to air pollution mapping, we can better predict long-term concentrations of Particulate Matter, Ozone, or SO2 values which compile the most significant portion of air pollutions emitted in places such as Vietnam. A significant paper details the use of Kriging techniques in determining the relation between the spatial distribution of sulfur dioxide, ozone, and particulate matter and asthma in New York [5]. By comparing asthma hospitalizations with air pollutants, major threat areas can be identified. Air quality data and pollution concentrations of SO2, O3, and PM2.5 were collected from close to eighty monitoring sites around New York, and then using Kriging methods, scientists were able to create a spatial distribution map detailing predictions of such concentrations across the entire state. Through the use of Ordinary Kriging, scientists developed a dataset detailing the parameters of a semivariogram including the Mean Standardized and Root Mean Square Standardized error [5]. 
 
@@ -75,8 +80,10 @@ Discussion:
 
 Research Proposal
 
-	Given the correct recourses and opportunities to develop this map can do wonders for not only Vietnam but our international community. Being able to develop such an extensive map for Vietnam can greatly enhance our understanding of the interweavings of the relationship between the environment and socioeconomic factors. Once a basis for environmental justice is established, we can then begin asking why such results exist, and how we can combat it. First of all, are certain socioeconomic groups being marginalized? What kind of adverse health risks do they face? Why are these groups concentrated around these hazardous areas? Are these hazardous areas properly regulated? Why have the complaints of these groups not been addressed? Is it due to under table bribing? Where does this corruption stem from? How can we bring humanitarian aid to these areas of need or how can we address this marginalization? Just thinking about the possibilities this map can begin to bring makes me ever so determined to work on this project with my team. Sustainable development is hard to come by in a world plagued by corruption and environmental issues however my team and I believe that the establishment of a comprehensive environmental justice map can be a true game-changer and integral to future guidance in the development, especially for developing nations such as Vietnam. Bringing awareness of a problem into the light is the first step in addressing it. If we are able to identify marginalization and environmental inequality within Vietnam, we can then bring sustainable development for the people and by the people, ultimately enlarging the freedoms of all people no matter the race or status. 
+Given the correct recourses and opportunities to develop this map can do wonders for not only Vietnam but our international community. Being able to develop such an extensive map for Vietnam can greatly enhance our understanding of the interweavings of the relationship between the environment and socioeconomic factors. Once a basis for environmental justice is established, we can then begin asking why such results exist, and how we can combat it. First of all, are certain socioeconomic groups being marginalized? What kind of adverse health risks do they face? Why are these groups concentrated around these hazardous areas? Are these hazardous areas properly regulated? Why have the complaints of these groups not been addressed? Is it due to under table bribing? Where does this corruption stem from? How can we bring humanitarian aid to these areas of need or how can we address this marginalization? Just thinking about the possibilities this map can begin to bring makes me ever so determined to work on this project with my team. Sustainable development is hard to come by in a world plagued by corruption and environmental issues however my team and I believe that the establishment of a comprehensive environmental justice map can be a true game-changer and integral to future guidance in the development, especially for developing nations such as Vietnam. Bringing awareness of a problem into the light is the first step in addressing it. If we are able to identify marginalization and environmental inequality within Vietnam, we can then bring sustainable development for the people and by the people, ultimately enlarging the freedoms of all people no matter the race or status. 
 	Our plan provides a comprehensive and multifaceted description outlining the course of action our team plans to take in this research process. The facets of the plan are outlined below:
+
+	
 I. Data collection
 II. Application of Methods
 III. Future Steps
@@ -93,21 +100,29 @@ Future Steps:
 
 Discussion:
 	Through the exposure of our work to the international community, we can continue to offer and encourage change and adaption to models that may or may not have worked in our study of Hanoi. Because the credibility of data collection is so skewed in more rural areas we hope that the exposure of our work can incite ways to translate this onto a national scale. As discussed, we hope this information becomes a basis for future research on identifying and addressing inequality in Vietnam. Only through this can we truly confirm the reality of things in Vietnam. If instances of inequality are exposed, we can begin the process of reforming its cause whether it be due to corruption on the local or national level. Humanitarian aid can be accessible through Non-Governmental Organizations such as the Vietnam Red Cross Society, or World Health Organization Vietnam. Only by exposing the problem first can we begin the take steps in combating such issues. While the proposals of many other applicants are impressive, this project introduces a revolutionary side of geospatial mapping that has been rarely discussed or researched compared to other hot topics. The capability of this map represents the entire notion of sustainable development as the information gained from the project can be used as the basis for further research as it has proved time and time again for environmental justice maps. The possibilities for a map of this magnitude are truly endless and can benefit the international community to a whole other degree. While this project may prove to be time-consuming than many others, its benefits in transforming human development greatly outweighs its costs. 
-  
 	Nevertheless, it is an honor to be considered among such a wonderful set of applicants and our team can’t be happier to participate in the process. 
 
 
 References:
 [1] Person. (2020, February 11). Vietnam culls 30,000 poultry to stem bird flu outbreak - VnExpress International. Retrieved from https://e.vnexpress.net/news/news/vietnam-culls-30-000-poultry-to-stem-bird-flu-outbreak-4053456.html
+
 [2] Gillespie, John, Nguyen, Canh, Nguyen, & Hung. (2019, August 1). From "Weak" to "Strong" Sustainability: Protesting for Environmental Justice in Vietnam. Retrieved from https://online.ucpress.edu/jvs/article/14/3/1/46107/From-Weak-to-Strong-Sustainability-Protesting-for
+
 [3] (n.d.). Retrieved from http://www.wepa-db.net/policies/state/vietnam/surface.htm
+
 [4] Chilès, J.-P., & Desassis, N. (1970, January 1). Fifty Years of Kriging. Retrieved from https://link.springer.com/chapter/10.1007/978-3-319-78999-6_29
+
 [5] Gorai, A. K., Tuluri, F., & Tchounwou, P. B. (n.d.). A Gis Based Approach for Assessing the Association between Air Pollution and Asthma in New York State, Usa . International Journal of Environmental Research and Public Health ISSN 1660-4601 
+
 [6] Kim, S.-Y., Yi, S.-J., Eum, Y. S., Choi, H.-J., Shin, H., Ryou, H. G., & Kim, H. (2014, September 22). Ordinary kriging approach to predicting long-term particulate matter concentrations in seven major Korean cities. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178540/
+
 [7] Verbeek, T. (2018, December 13). Unequal residential exposure to air pollution and noise: A geospatial environmental justice analysis for Ghent, Belgium. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6304432/
+
 [8] Goodman, Kyle, "Environmental Justice and GIS: A Comparison of Three GIS Methods for Estimating Vulnerable Population Exposed to Brownfield Pollution in Portland, Oregon" (2017). Geography Masters Research Papers. 19.
 https://pdxscholar.library.pdx.edu/geog_masterpapers/19
+
 [9] Kearney, G., & Kiros, G.-E. (2009, June 17). A spatial evaluation of socio demographics surrounding National Priorities List sites in Florida using a distance-based approach. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2708146/
+
 [10] Person. (2020, February 12). Hanoi to set up 70 more air monitoring stations - VnExpress International. Retrieved from https://e.vnexpress.net/news/news/hanoi-to-set-up-70-more-air-monitoring-stations-4051397.html
 
 
