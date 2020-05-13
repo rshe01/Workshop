@@ -18,14 +18,6 @@ Richard She
 1. [Assignment One](https://rshe01.github.io/Workshop/Assignment_One) (Feb. 23)
 2. [Assignment Two](https://rshe01.github.io/Workshop/Assignment_Two) (Apr. 5)
 3. [Assignment Three](https://rshe01.github.io/Workshop/Assignment_Three) (Apr. 19)
-
-Annotated Bibliography 
-- Problem Statement 
-  - Harms
-  - Significance of Harms
-  - Inherent nature of the problem 
-- Selected HMIC or Region
-- Dimensions of Human Development
+4. [Assignment Four](https://rshe01.github.io/Workshop/Assignment_Four) (May. 13)
 
 
-2. Literature Review 
