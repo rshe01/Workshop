@@ -19,5 +19,6 @@ Richard She
 2. [Assignment Two](https://rshe01.github.io/Workshop/Assignment_Two) (Apr. 5)
 3. [Assignment Three](https://rshe01.github.io/Workshop/Assignment_Three) (Apr. 19)
 4. [Assignment Four](https://rshe01.github.io/Workshop/Assignment_Four) (May. 13)
+5. [Assignment Four PDF](https://rshe01.github.io/Workshop/Assignment 4 - Richard She.pdf) (May. 13)
 
 
